@@ -58,7 +58,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://imgur.com/DuUkoP5);
+    background: url(https://imgur.com/DuUkoP5.png);
 }
 
 .ds4 .button.pressed {
@@ -98,7 +98,7 @@
 
 .ds4 .stick {
     position: absolute;
-    background: url(https://imgur.com/eNATpRH);
+    background: url(https://imgur.com/eNATpRH.png);
     height: 94px;
     width: 94px;
 }
@@ -130,7 +130,7 @@
 }
 
 .ds4 .face {
-    background: url(https://imgur.com/dzeZjUs);
+    background: url(https://imgur.com/dzeZjUs.png);
     position: absolute;
 }
 
